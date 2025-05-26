@@ -28,4 +28,7 @@ A system made for the final project as a requirement on Computer Programming 1 a
 5. **Searching and Filter Functions** - Allows users to:
 - Search for items by name
 - Filter items by expiration timeframe (e.g., expiring this week)
- 
+
+## NOTE
+*This project had minor issues and only runs on latest version of c++. It is a console-based program only without gui and database as this serve a foundation for practicing backend.*
+*It is optional for programmers to further enhance the system and solve the minor issues.*
