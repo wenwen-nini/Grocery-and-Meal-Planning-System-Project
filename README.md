@@ -19,15 +19,15 @@ A system made for the final project as a requirement on Computer Programming 1 a
 	2.3 **View Meal Plans** - Display all scheduled meal plans in chronological order
 
 3. **Expiration Tracking** - This system will:
-- Highlight items approaching expiration (e.g., within 3 days) 
-- Provide warnings when adding items that will expire before similar existing item (FIFO principle) 
+	- Highlight items approaching expiration (e.g., within 3 days) 
+	- Provide warnings when adding items that will expire before similar existing item (FIFO principle) 
 4. **File Handling** - Implement persistent storage by:
-- Saving grocery items to "groceries.txt"
-- Saving meal plans to "mealplan.txt"
-- Loading these files when the program starts. 
+	- Saving grocery items to "groceries.txt"
+	- Saving meal plans to "mealplan.txt"
+	- Loading these files when the program starts. 
 5. **Searching and Filter Functions** - Allows users to:
-- Search for items by name
-- Filter items by expiration timeframe (e.g., expiring this week)
+	- Search for items by name
+	- Filter items by expiration timeframe (e.g., expiring this week)
 
 ## NOTE
 *This project had minor issues and only runs on latest version of c++. It is a console-based program only without gui and database as this serve a foundation for practicing backend.*
